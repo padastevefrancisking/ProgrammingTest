@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 
-namespace ProgrammingTest
+namespace ProgrammingTest.Algorithms
 {
     public class Problem2
     {
