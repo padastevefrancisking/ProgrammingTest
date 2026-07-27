@@ -1,4 +1,4 @@
-﻿namespace ProgrammingTest
+﻿namespace ProgrammingTest.Algorithms
 {
     public class Problem1
     {
